@@ -1,5 +1,7 @@
 # RestCountryAPP
+live preview
 
+https://nationpalette.netlify.app/
 A React application that displays information about countries around the world using country data. The application allows users to search for countries, filter by region, and view detailed information about each country.
 
 ## Features
