@@ -27,9 +27,15 @@ A comprehensive React application that displays detailed information about count
 
 ## 🚀 Repository Basics
 
+![alt text](architecture_diagram.png)
+
+
 ### Purpose \& Overview
 
 This React application serves as a comprehensive country information portal that allows users to explore detailed data about all world countries. The app provides an intuitive interface for searching, filtering, and viewing country-specific information including demographics, geography, currencies, languages, and neighboring countries.[^1][^2][^3]
+
+
+![alt text](user_flow_diagram.png)
 
 **Key Capabilities:**
 
