@@ -1,5 +1,3 @@
-
-
 # RestCountryAPP - Complete Developer Guide
 
 A comprehensive React application that displays detailed information about countries worldwide using static country data. This app features search functionality, region filtering, detailed country views, and a responsive design with dark/light mode support.
